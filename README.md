@@ -9,3 +9,4 @@
 
 ### How to links
 - https://www.devprovider.com/erc20-token-rinkeby-network/
+- https://zouhirtaousy.medium.com/how-to-build-an-erc20-token-on-rinkeby-mainnet-using-metamask-truffle-c892afb2e7df
