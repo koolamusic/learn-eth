@@ -1,0 +1,21 @@
+{
+  "name": "staking_contract",
+  "version": "1.0.0",
+  "description": "staking contract on the eth blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "bn.js": "^4.11.9",
+    "dotenv": "^8.2.0",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "truffle-plugin-verify": "^0.5.4",
+    "web3": "^1.2.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0"
+  }
+}
+
