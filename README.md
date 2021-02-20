@@ -7,3 +7,5 @@
 
 
 
+### How to links
+- https://www.devprovider.com/erc20-token-rinkeby-network/
